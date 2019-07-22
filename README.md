@@ -2,7 +2,7 @@
 
 #### Members：
 
-[Binghui XIE](https://github.com/XieBinghui) [Baichuan LIU](https://github.com/chuanchuanchuan) [Jiayang CHENG](https://github.com/loginaway)
+[Binghui XIE](https://github.com/XieBinghui), [Baichuan LIU](https://github.com/chuanchuanchuan), [Jiayang CHENG](https://github.com/loginaway)
 
 #### Report
 
